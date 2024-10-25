@@ -10,6 +10,6 @@
 
 <h2>My Social Media</h2>
 
-<a href='https://www.linkedin.com/in/abolfazl-babaei01' blank=true> 
+<a href='https://www.linkedin.com/in/abolfazl-babaei01' blank> 
 <img src='https://skillicons.dev/icons?i=linkedin'>
 </a>
