@@ -19,7 +19,7 @@
 </a>
 
 <a href='https://t.me/Abolfazlbabaei01'> 
-<img src='https://cdn-icons-png.freepik.com/256/15015/15015947.png?semt=ais_hybrid' width='50'>
+<img src='https://cdn-icons-png.freepik.com/256/15015/15015947.png?semt=ais_hybrid' width='45'>
 </a>
 
 <a href='mailto:abolfazl.9599@gmail.com'> 
