@@ -21,3 +21,7 @@
 <a href='mailto:abolfazl.9599@gmail.com'> 
 <img src='https://skillicons.dev/icons?i=gmail'>
 </a>
+
+<a href='https://t.me/Abolfazlbabaei01'> 
+<img src='https://cdn-icons-png.freepik.com/256/15015/15015947.png?semt=ais_hybrid' width='50'>
+</a>
