@@ -10,6 +10,14 @@
 
 <h2>My Social Media</h2>
 
-<a href='https://www.linkedin.com/in/abolfazl-babaei01' blank> 
+<a href='https://www.linkedin.com/in/abolfazl-babaei01'> 
 <img src='https://skillicons.dev/icons?i=linkedin'>
+</a>
+
+<a href='https://www.instagram.com/abolfazl.babaei01/profilecard/?igsh=bWxtNDhsdWxxMzMy'> 
+<img src='https://skillicons.dev/icons?i=instagram'>
+</a>
+
+<a href='mailto:abolfazl.9599@gmail.com'> 
+<img src='https://skillicons.dev/icons?i=gmail'>
 </a>
