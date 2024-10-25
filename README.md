@@ -8,7 +8,7 @@
 <img src='https://skillicons.dev/icons?i=python,django,git,github,html,css' alt='My Expertise'/>
 
 
-<h2>My Social Media</h2>
+<h2>My Social Media And Contact Me</h2>
 
 <a href='https://www.linkedin.com/in/abolfazl-babaei01'> 
 <img src='https://skillicons.dev/icons?i=linkedin'>
