@@ -14,9 +14,6 @@
 <img src='https://skillicons.dev/icons?i=linkedin'>
 </a>
 
-<a href='https://www.instagram.com/abolfazl.babaei01/profilecard/?igsh=bWxtNDhsdWxxMzMy'> 
-<img src='https://skillicons.dev/icons?i=instagram'>
-</a>
 
 <a href='https://t.me/Abolfazlbabaei01'> 
 <img src='https://cdn-icons-png.freepik.com/256/15015/15015947.png?semt=ais_hybrid' width='47'>
