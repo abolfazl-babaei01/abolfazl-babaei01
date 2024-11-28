@@ -19,6 +19,6 @@
 <img src='https://cdn-icons-png.freepik.com/256/15015/15015947.png?semt=ais_hybrid' width='47'>
 </a>
 
-<a href='mailto:abolfazl.babaei006'> 
+<a href='mailto:abolfazl.babaei006@gmail.com'> 
 <img src='https://skillicons.dev/icons?i=gmail'>
 </a>
