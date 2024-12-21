@@ -10,7 +10,7 @@
 
 <h2>My Social Media And Contact Me</h2>
 
-<a href='https://www.linkedin.com/in/abolfazl-babaei01' title="Linkedin"> 
+<a href='https://www.linkedin.com/in/abolfazl-babaei01/' title="Linkedin"> 
 <img src='https://skillicons.dev/icons?i=linkedin'>
 </a>
 
