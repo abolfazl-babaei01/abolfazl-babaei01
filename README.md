@@ -10,15 +10,15 @@
 
 <h2>My Social Media And Contact Me</h2>
 
-<a href='https://www.linkedin.com/in/abolfazl-babaei01' title="linkedin"> 
+<a href='https://www.linkedin.com/in/abolfazl-babaei01' title="Linkedin"> 
 <img src='https://skillicons.dev/icons?i=linkedin'>
 </a>
 
 
-<a href='https://t.me/Abolfazlbabaei01' title="telegram"> 
+<a href='https://t.me/Abolfazlbabaei01' title="Telegram"> 
 <img src='https://cdn-icons-png.freepik.com/256/15015/15015947.png?semt=ais_hybrid' width='47'>
 </a>
 
-<a href='mailto:abolfazl.babaei006@gmail.com' title="emial"> 
+<a href='mailto:abolfazl.babaei006@gmail.com' title="Email"> 
 <img src='https://skillicons.dev/icons?i=gmail'>
 </a>
