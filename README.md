@@ -5,7 +5,7 @@
 
 ---
 <h1>My Expertise </h1>
-<img src='https://skillicons.dev/icons?i=python,django,git,github,html,css' alt='My Expertise'/>
+<img src='https://skillicons.dev/icons?i=python,django,git,github' alt='My Expertise'/>
 
 <h2>The technologies that I know are in the front field</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js">
