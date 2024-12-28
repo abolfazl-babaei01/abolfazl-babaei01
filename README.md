@@ -7,13 +7,13 @@
 <h1>My Expertise </h1>
 <img src='https://skillicons.dev/icons?i=python,django,git,github,html,css' alt='My Expertise'/>
 
+<h2>The technologies that I know are in the front field</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js">
 
 <h2>My Social Media And Contact Me</h2>
-
 <a href='https://www.linkedin.com/in/abolfazl-babaei01/' title="Linkedin"> 
 <img src='https://skillicons.dev/icons?i=linkedin'>
 </a>
-
 
 <a href='https://t.me/Abolfazlbabaei01' title="Telegram"> 
 <img src='https://cdn-icons-png.freepik.com/256/15015/15015947.png?semt=ais_hybrid' width='47'>
