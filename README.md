@@ -5,7 +5,7 @@
 
 ---
 <h1>My Expertise </h1>
-<img src='https://skillicons.dev/icons?i=python,django,git,github' alt='My Expertise'/>
+<img src='https://skillicons.dev/icons?i=python,django,docker,git,github' alt='My Expertise'/>
 
   <img src="https://media2.dev.to/dynamic/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fat87eifyp17wcfmucgme.png" width='60' title="rest (DRF)">
 
