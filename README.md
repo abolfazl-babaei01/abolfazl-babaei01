@@ -7,7 +7,7 @@
 <h1>My Expertise </h1>
 <img src='https://skillicons.dev/icons?i=python,django,docker,nginx,git,github' alt='My Expertise'/>
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7TJGDES6dqVlPSU2fc19ldYmIla5PfKEdX6sDeQ10I5GSzT5-ePeSSVHCU4Df11CDYM&usqp=CAU" width='60' title="rest (DRF)">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7TJGDES6dqVlPSU2fc19ldYmIla5PfKEdX6sDeQ10I5GSzT5-ePeSSVHCU4Df11CDYM&usqp=CAU" width='50' title="rest (DRF)">
 
 
 <h2>The technologies that I know are in the front field</h2>
